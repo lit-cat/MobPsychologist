@@ -1,5 +1,5 @@
 # MobPsychologist
-Re-creation of the comic story Onhundred MobPsycho (original author: one), for adults only.
+Re-creation of the comic story Onehundred MobPsycho (original author: one), for adults only.
 
 0. MOB x REIGEN
 1. Tribute to Mr. Despair(https://twitter.com/yowaimahou?s=17)
